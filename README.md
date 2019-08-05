@@ -1,4 +1,4 @@
-# use-form-handler [![Known Vulnerabilities](https://snyk.io//test/github/guerc/use-form-handler/badge.svg?targetFile=package.json)](https://snyk.io//test/github/guerc/use-form-handler?targetFile=package.json)
+# use-form-handler [![codecov](https://codecov.io/gh/guerc/use-form-handler/branch/master/graph/badge.svg)](https://codecov.io/gh/guerc/use-form-handler) [![Known Vulnerabilities](https://snyk.io//test/github/guerc/use-form-handler/badge.svg?targetFile=package.json)](https://snyk.io//test/github/guerc/use-form-handler?targetFile=package.json)
 
 A strongly typed React Hook for form input handling.
 
