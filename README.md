@@ -6,7 +6,9 @@ _use-form-handler_’s main goals are to keep it user-friendly, easy to use and 
 
 ## Installation
 
-NPM package will be available soon.
+```
+npm install use-form-handler
+```
 
 ## Usage
 
