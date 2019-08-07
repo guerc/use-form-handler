@@ -1,4 +1,6 @@
-# use-form-handler [![codecov](https://codecov.io/gh/guerc/use-form-handler/branch/master/graph/badge.svg)](https://codecov.io/gh/guerc/use-form-handler) [![Known Vulnerabilities](https://snyk.io//test/github/guerc/use-form-handler/badge.svg?targetFile=package.json)](https://snyk.io//test/github/guerc/use-form-handler?targetFile=package.json)
+# use-form-handler
+
+[![Build Status](https://travis-ci.com/guerc/use-form-handler.svg?branch=master)](https://travis-ci.com/guerc/use-form-handler) [![codecov](https://codecov.io/gh/guerc/use-form-handler/branch/master/graph/badge.svg)](https://codecov.io/gh/guerc/use-form-handler) [![Known Vulnerabilities](https://snyk.io//test/github/guerc/use-form-handler/badge.svg?targetFile=package.json)](https://snyk.io//test/github/guerc/use-form-handler?targetFile=package.json) [![Dev Dependencies Status](https://david-dm.org/guerc/use-form-handler/dev-status.svg)](https://david-dm.org/guerc/use-form-handler?type=dev) [![Minified Bundle Size](https://badgen.net/bundlephobia/min/use-form-handler)](https://bundlephobia.com/result?p=use-form-handler)
 
 A strongly typed React Hook for form input handling.
 
@@ -51,4 +53,4 @@ You can bind `useFormHandler` to your `input`, `select`, or `textarea` elements 
 
 ## License
 
-- See [LICENSE](/LICENSE)
+- MIT (see [LICENSE](/LICENSE))
